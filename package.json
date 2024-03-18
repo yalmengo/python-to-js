@@ -1,0 +1,20 @@
+{
+  "name": "python-to-js",
+  "version": "1.0.0",
+  "description": "python to js",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron  src/main.js"
+  },
+  "keywords": ["electron", "python", "javascript"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codemirror": "^5.48.0",
+    "electron": "^5.0.6",
+    "filbert": "^0.1.20",
+    "lexr": "^1.0.4",
+    "python-shell": "^1.0.7",
+    "sweetalert2": "^8.18.3"
+  }
+}
